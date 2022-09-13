@@ -1,1 +1,1 @@
-link to my CV
+https://kseniia-chepur.github.io/rsschool-cv/cv
