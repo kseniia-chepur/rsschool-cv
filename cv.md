@@ -35,3 +35,9 @@ Introduction to Coding, Front End Development, Responsive Web Development, React
 _**Weather app project**_: https://cool-starlight-344e94.netlify.app/
 
 _**Dictionary project**_: https://moonlit-gnome-498bda.netlify.app/
+
+## Languages
+
+Russian, Ukrainian - native
+
+English - B2
